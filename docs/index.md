@@ -1,89 +1,186 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Ephraim Henrichsen's CV
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+<!-- # Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+
+## Currently
+
+Standing on the shoulders of giants
+
+### Specialized in
+
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
+
+### Research interests
+
+Cooling, power series, optics, alchemy, planetary motions, apples.
+
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`1654-1660`
+__The King's School, Grantham.__
 
-- Full academic scholarship with 4.0 GPA
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+- Sizar
 
-- 4.0 Major GPA
+`1667 - death`
+__Trinity College, Cambridge__
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Fellow
 
 
-## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+
+## Publications
+
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University -->
+
+
+
+
+
+# Ephraim Henrichsen
+
+Data Scientist, Computer programmer, and Statistician
+
+###### 812‑344‑9019 | elhenrichsen16@gmail.com | www.linkedin.com/in/Ephraim‑Henrichsen
+
+<!-- 
+## Currently
+
+Full-time student and Brigham Young University - Idaho, studying Data Science -->
+
+# Education
+
+
+#### Brigham Young University - Idaho
+##### July 2016 - July 2022
+##### Bachelor of Science in Data Science
+###### Rexburg, Idaho, US
+    • Relevant course work: 
+        MATH 341: Linear Algebra (A) 
+        CSE 350: Data Wrangling and Visualization (A) 
+        MATH 335: Intermediate Statistics (A) 
+        CSE 450: Machine Learning and Data Mining (A)
+    • Current GPA: 3.4 / 4.0
+
+
+#### International School of Beijing
+##### Graduated May 2016
+##### High School Diploma
+###### Beijing, China
+    • GPA: 3.2
+
+
+
+## Experience
+
+
+#### Purdue University - Columbus
+##### June 2019 - December 2019
+##### Professor’s Assistant (Verbal Reference Available – 812-603-7737, written reference available upon request)
+###### Columbus, Indiana
+    • Conceptualized and implemented software functionality improvements for two different programs.
+    • Improved quality and error handling of two programs.
+
+
+#### Freelance Game Developer
+##### January 2019 - October 2019
+##### Game Designer, Game Programmer, Graphics finder/creator
+###### Columbus, Indiana
+    • Designed and implemented functionality improvements including two distinct enemy movement patterns.
+    • Procured or created all seven visual assets for product.
+
+
+#### Wendy's of Bloomington
+##### December 2016 - September 2020
+##### Food Service Worker
+###### Columbus, Indiana
+    • Performed individual responsibilities as assigned in a team environment
+    • Identified when others fell behind and stepped in to assist in clearing backlog
+    • Prepared for high-sales periods during low-sales periods
+    • Fulfilled positional requirements and switched between nine distinct positions as needed
+    • Corrected fellow crew members' behavior 20+ times when proper food safety protocol was not being followed
+
+
+#### Shoaf Family Farms
+##### December 2016 - June 2020
+##### Farmhand (Livestock)
+###### Hope, Indiana
+    • Completed assigned tasks without need for constant supervision for up to five hours at a time.
+    • Performed one of four different cleaning, vaccination, and feeding procedures as demonstrated.
+
+
+#### WindSong Fibers Farm
+##### December 2016 - December 2017
+##### Farmhand (Livestock)
+###### Columbus, Indiana
+    • Fed and watered three types of animals, cleaned enclosures, and restrained animals for medication and shearing.
+
+
+#### Falcon Manufacturing
+##### September 2020 - March 2021
+##### Manufacturing Associate (Temporary)
+###### Columbus, Indiana
+    • Executed positional responsibilities as designated, learning new procedures as necessary in 10+ different positions.
+
+
+### Technical Skills
+    • Working: | Python | R | C++ | Haxe (self taught) | MATLAB (self taught) | Visual Basic (Excel - self taught))
+    • Technical: Microsoft Office Suite (Word, PowerPoint, and Excel)
+
+### Awards
+    • BSA Eagle Scout
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: December 2021 -->
